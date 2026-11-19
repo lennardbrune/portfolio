@@ -2,3 +2,5 @@ CLAUDE.md
 .claude/
 .DS_Store
 index-backup.html
+.wrangler/
+.zugang.local
